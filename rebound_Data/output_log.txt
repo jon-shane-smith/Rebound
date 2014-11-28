@@ -1,0 +1,22 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Graphics Media Accelerator HD (ID=0x46)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jonlaptop\Documents\Intro Game Design HW\Arkanoid\rebound_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jonlaptop\Documents\Intro Game Design HW\Arkanoid\rebound_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jonlaptop\Documents\Intro Game Design HW\Arkanoid\rebound_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jonlaptop\Documents\Intro Game Design HW\Arkanoid\rebound_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at -1600,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.777040 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 2.513474 ms (FindLiveObjects: 0.049076 ms CreateObjectMapping: 0.033679 ms MarkObjects: 0.212182 ms  DeleteObjects: 0.729407 ms)
+

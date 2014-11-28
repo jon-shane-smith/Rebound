@@ -1,3 +1,5 @@
+Download all files and run executable
+
 Rebound is a clone of Arkanoid.
 There are two levels.
 To serve the ball press the spacebar.
